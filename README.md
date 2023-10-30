@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbasyouni10&layout=compact&exclude_repo=Olympic_Medal_Predictor_ML_Python,PROJECT6-IOS101,PROJECT5-IOS101,PROJECT4-IOS101,PROJECT3-IOS101,PROJECT2-IOS101,PROJECT1-IOS101)\
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbasyouni10&layout=compact&exclude_repo=Olympic_Medal_Predictor_ML_Python)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbasyouni10&layout=compact&exclude_repo=Olympic_Medal_Predictor_ML_Python,Tumblr-IOS-App)]
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
