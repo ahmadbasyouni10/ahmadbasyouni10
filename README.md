@@ -30,10 +30,11 @@ I have been interested in coding from the age of 11. I started coding using bloc
   - Tutoring @ City University of New York
 
 # 🚀 Tech Stack
-- Web Dev: HTML, CSS, JS, TypeScript, MongoDB, Express, React, Node.js, Tailwind, Next
-- Other Languages: Python, Java, C++, C
-- Game Development: C#, Unity, Godot
-- Tools: VSCode, Postman, Netlify, IntelliJ IDEA, Heroku, GitHub, Figma, Eclipse
+- Web Dev: [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev) [![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev) [![Express](https://skillicons.dev/icons?i=express&theme=dark)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev) [![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev) [![Next](https://skillicons.dev/icons?i=next&theme=dark)](https://skillicons.dev)
+- Other Languages: [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev) [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev) [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
+- Game Development: [![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev) [![Unity](https://skillicons.dev/icons?i=unity&theme=dark)](https://skillicons.dev) [![Godot](https://skillicons.dev/icons?i=godot&theme=dark)](https://skillicons.dev)
+- Tools: [![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev) [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev) [![Netlify](https://skillicons.dev/icons?i=netlify&theme=dark)](https://skillicons.dev) [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&theme=dark)](https://skillicons.dev) [![Heroku](https://skillicons.dev/icons?i=heroku&theme=dark)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev) [![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev) [![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=dark)](https://skillicons.dev)
+
 
 # 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbasyouni10&layout=compact&exclude_repo=Olympic_Medal_Predictor_ML_Python,Flix-Movie-IOS-App,PROJECT7-IOS101,Tasks-App)
