@@ -2,7 +2,7 @@
 
 <hr>
 
-📮 **About Me**
+# 📮 About Me
 
 My name is Aidan and I am a Computer Science student!
 
