@@ -22,18 +22,18 @@ I have been interested in coding from the age of 11. I started coding using bloc
   - Self-Taught Game Developer (2 Years) and Front-End Web Developer (1 Year)
   - You can view a few of my projects here on my [GitHub page](https://github.com/ouckah)!
 
-## 📍 What Am I Doing?
+# 📍 What Am I Doing?
 - 📋 Currently I am:
   - Self-teaching AI / Machine Learning
   - Grinding LeetCode
   - Interning for NUKEMAP this summer
   - Participating in Launchpad@Stevens
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 - Web Dev: HTML, CSS, JS, TypeScript, MongoDB, Express, React, Node.js, Tailwind, Next
 - Other Languages: Python, Java, C++, C
 - Game Development: C#, Unity, Godot
 - Tools: VSCode, Postman, Netlify, IntelliJ IDEA, Heroku, GitHub, Figma, Eclipse
 
-## 📊 Stats
+# 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ouckah)
