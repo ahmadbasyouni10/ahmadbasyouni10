@@ -24,10 +24,10 @@ I have been interested in coding from the age of 11. I started coding using bloc
 
 # 📍 What Am I Doing?
 - 📋 Currently I am:
-  - Self-teaching AI / Machine Learning
+  - Self-teaching MERN STACK
   - Grinding LeetCode
-  - Interning for NUKEMAP this summer
-  - Participating in Launchpad@Stevens
+  - Researching for CUNY Scholars Program (Full Stack Development)
+  - Tutoring @ City University of New York
 
 # 🚀 Tech Stack
 - Web Dev: HTML, CSS, JS, TypeScript, MongoDB, Express, React, Node.js, Tailwind, Next
