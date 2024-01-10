@@ -36,4 +36,4 @@ I have been interested in coding from the age of 11. I started coding using bloc
 - Tools: VSCode, Postman, Netlify, IntelliJ IDEA, Heroku, GitHub, Figma, Eclipse
 
 # 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ouckah)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbasyouni10&layout=compact&exclude_repo=Olympic_Medal_Predictor_ML_Python,Flix-Movie-IOS-App,PROJECT7-IOS101,Tasks-App)
