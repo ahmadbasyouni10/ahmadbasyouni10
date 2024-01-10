@@ -6,10 +6,9 @@
 
 My name is Aidan and I am a Computer Science student!
 
-```java
-public class Aidan
-{
-  private int age = 19;
-  public String[] traits = new String[] { "dumb", "short", "nerd" };
-  public String[] hobbies = new String[] { "Coding!", "Ultimate Frisbee", "Chess", "Wrestling", "Sleeping" };
-}
+```python
+class Ahmad:
+def __init__(self):
+self.age = 19
+self.traits = ["nerd", "short", "wavy hair"]
+self.hobbies = ["Coding", "Soccer", "Streaming"]
