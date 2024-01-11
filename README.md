@@ -4,7 +4,7 @@
 
 # 📮 About Me
 
-My name is Aidan and I am a Computer Science student!
+My name is Ahmad and I am a Computer Engineering student!
 
 ```python
 class Ahmad:
@@ -14,19 +14,18 @@ self.traits = ["nerd", "short", "wavy hair"]
 self.hobbies = ["Coding", "Soccer", "Streaming"]
 ```
 
-I have been interested in coding from the age of 11. I started coding using block Scratch code and grew to learn languages such as Python and Java. At 13, I used my Java knowledge to experiment with Minecraft plugins and started to create my own. Around 14-15, I started creating games in Unity, where I dipped my toes into C#. Now, I am exploring Web Design and languages such as HTML, CSS, and JavaScript. I have tried tools such as Node.js and React, and I am still learning
+I have been interested in computers from the age of 10. I started fixing old laptops and building computers for my family and friends. I started coding in highschool using Java. Then, learned Python and C++ and created VPN and Spoofers used by some video game players. Now, I am exploring Web Design and languages such as HTML, CSS, and JavaScript. I have tried tools such as Node.js and React, and I am still learning to become a successful Software Engineer.
 
 ### 💼 Credentials
 - **Experience:**
-  - Mentored for 3 months by [Mukund Iyengar](https://faculty.stevens.edu/miyengar), Director of Launchpad
-  - Self-Taught Game Developer (2 Years) and Front-End Web Developer (1 Year)
-  - You can view a few of my projects here on my [GitHub page](https://github.com/ouckah)!
+  - Interned at Dyali Interiors as a Front-End Developer
+  - You can view a few of my projects here on my [GitHub page](https://github.com/ahmadbasyouni10)!
 
 # 📍 What Am I Doing?
 - 📋 Currently I am:
+  - Researching for CUNY Scholars Program (Full Stack Development)
   - Self-teaching MERN STACK
   - Grinding LeetCode
-  - Researching for CUNY Scholars Program (Full Stack Development)
   - Tutoring @ City University of New York
 
 # 🚀 Tech Stack
