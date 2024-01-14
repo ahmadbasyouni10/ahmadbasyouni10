@@ -14,7 +14,7 @@ self.traits = ["nerd", "short", "wavy hair"]
 self.hobbies = ["Coding", "Soccer", "Streaming"]
 ```
 
-I have been interested in computers from the age of 10. I started fixing old laptops and building computers for my family and friends. I started coding in highschool using Java. Then, learned Python and C++ and created VPN and Spoofers used by some video game players. Now, I am exploring Web Design and languages such as HTML, CSS, and JavaScript. I have tried tools such as Node.js and React, and I am still learning to become a successful Software Engineer.
+I fell in love with computers at the age of 10. I started fixing old laptops and building computers for my family and friends. I started coding in highschool using Java. Then, learned Python and C++, which helped me created VPNs and other cool stuff for me and my friends to use. Now, I am exploring Web Developement and frameworks like Node Express and React.
 
 ### 💼 Credentials
 - **Experience:**
