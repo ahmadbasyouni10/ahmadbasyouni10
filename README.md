@@ -19,14 +19,16 @@ I fell in love with computers at the age of 10. I started fixing old laptops and
 ### 💼 Credentials
 - **Experience:**
   - Interned at Dyali Interiors as a Front-End Developer
+  - Tutored Computer Science @ City University of New York
   - You can view a few of my projects here on my [GitHub page](https://github.com/ahmadbasyouni10)!
 
 # 📍 What Am I Doing?
 - 📋 Currently I am:
-  - Researching for CUNY Scholars Program (Full Stack Development)
-  - Self-teaching MERN STACK
+  - Researching ML/AI @ NYU Center of Data Science
+  - Interning as a SWE @ NEW EIC
+  - SEO Tech Developer
+  - Codepath TIP 102 student
   - Grinding LeetCode
-  - Tutoring @ City University of New York
 
 # 🚀 Tech Stack
 
