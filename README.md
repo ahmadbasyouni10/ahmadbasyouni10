@@ -10,7 +10,7 @@ My name is Ahmad and I am a Computer Engineering student!
 class Ahmad:
 def __init__(self):
 self.age = 19
-self.traits = ["nerd", "short", "wavy hair"]
+self.traits = ["athletic", "coder", "wavy hair"]
 self.hobbies = ["Coding", "Soccer", "Streaming"]
 ```
 
