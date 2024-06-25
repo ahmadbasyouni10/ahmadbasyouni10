@@ -45,4 +45,4 @@ I fell in love with computers at the age of 10. I started fixing old laptops and
 
 
 # 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbasyouni10&layout=compact&exclude_repo=Olympic_Medal_Predictor_ML_Python,Flix-Movie-IOS-App,NYU-RESEARCH-NLP,NYU-AI-School-Labs,PROJECT7-IOS101,Tasks-App)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbasyouni10&layout=compact&exclude_repo=Olympic_Medal_Predictor_ML_Python,Flix-Movie-IOS-App,NYU-RESEARCH-NLP,PROJECT7-IOS101,Tasks-App)
