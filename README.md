@@ -14,20 +14,23 @@ self.traits = ["athletic", "coder", "wavy hair"]
 self.hobbies = ["Coding", "Soccer", "Streaming"]
 ```
 
-I fell in love with computers at the age of 10. I started fixing old laptops and building computers for my family and friends. I started coding in highschool using Java. Then, learned Python and C++, which helped me created VPNs and other cool stuff for me and my friends to use. Now, I am exploring Web Developement and frameworks like Node Express and React.
+💻 I fell in love with computers at the age of 10. I started fixing old laptops and building computers for my family and friends. I loved the problem-solving and satisfaction of turning parts into something functional and created servers, VPNs, and other cool stuff. That same excitement hit me again during my senior year of high school in AP Computer Science using Java. Went on to pursue a degree in Computer Engineering, and received SWE internship offers from 4 Fortune 100 companies.
 
 ### 💼 Credentials
 - **Experience:**
-  - Interned at Dyali Interiors as a Front-End Developer
-  - Tutored Computer Science @ City University of New York
+  - Interned at NEW EIC as a Full Stack Engineer 
+  - Researched Machine Learning @ NYU
+  - Interned at SEO Tech Developer as a Software Engineer
+  - Interned at Dyali Interiors LLC as a Web Developer
+  - Prev. Headstarter Software Engineering Fellow
   - You can view a few of my projects here on my [GitHub page](https://github.com/ahmadbasyouni10)!
 
 # 📍 What Am I Doing?
 - 📋 Currently I am:
-  - Researching ML/AI @ NYU Center of Data Science
-  - Interning as a SWE @ NEW EIC
-  - SEO Tech Developer
-  - Codepath TIP 102 student
+  - Incoming Software Engineer Intern @ Warner Bros. Discovery
+  - Machine Learning/Data Science Fellow @ CUNY Tech Prep
+  - Mentoring aspiring engineers through Data Structures & Algorithms as a Technical Fellow @ CodePath
+  - Tutoring Computer Engineering @ CUNY College of Staten Island
   - Grinding LeetCode
 
 # 🚀 Tech Stack
