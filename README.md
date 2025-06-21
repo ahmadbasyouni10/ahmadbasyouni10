@@ -27,7 +27,7 @@ class Ahmad:
   - Tutoring Computer Engineering @ CUNY College of Staten Island
   - Contributing to Open Source
 
-- **Previous Experience:**
+- ⏮️ Previous Experience:
   - Software Engineer Intern @ NEW EIC
   - Machine Learning Researcher @ NYU
   - Machine Learning Fellow @ CUNY Tech Prep
