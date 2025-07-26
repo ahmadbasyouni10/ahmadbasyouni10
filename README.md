@@ -12,6 +12,7 @@ class Ahmad:
     self.age = 20
     self.hobbies = ["Coding", "Soccer", "Gaming"]
     self.school = "City University of New York-College of Staten Island"
+    self.email = "ahmadbasyouni2004@gmail.com"
 ```
 
 💻 I fell in love with computers at the age of 10. I started fixing old laptops and building computers for my family and friends. I loved the problem-solving and satisfaction of turning parts into something functional and created servers, VPNs, and other cool stuff. That same excitement hit me again during my senior year of high school in AP Computer Science using Java. Went on to pursue a degree in Computer Engineering, and received SWE internship offers from 5 Fortune 100 companies.
