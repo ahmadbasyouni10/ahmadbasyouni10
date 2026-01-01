@@ -32,4 +32,4 @@ class Ahmad:
 # 👻 Tech Stack
 
 ### Languages
-[![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev) [![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev) [![Swift](https://skillicons.dev/icons?i=swift&theme=dark)](https://skillicons.dev) [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev) [![Ruby](https://skillicons.dev/icons?i=ruby&theme=dark)](https://skillicons.dev)
+[![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://skillicons.dev) [![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
