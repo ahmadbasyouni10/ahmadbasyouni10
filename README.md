@@ -22,7 +22,7 @@ class Ahmad:
 
 # 📍 What Am I Doing?
 - 📋 Currently I am:
-  - hanging around!
+  - Software Engineer @ Neetcode
 
 - ⏮️ Previous Experience:
   - Software Engineer Intern @ AWS SageMaker
