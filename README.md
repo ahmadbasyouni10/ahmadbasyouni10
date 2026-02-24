@@ -15,7 +15,7 @@ class Ahmad:
     self.email = "ahmadbasyouni2004@gmail.com"
 ```
 
-💻 I am passionate about building reliable distributed systems and ML infrastructure. Currently building with Rust, making an aim trainer with OpenGL, and reading machine learning papers
+💻 I am passionate about building reliable distributed systems and ML infrastructure. Currently building NeetCode.io, working on core platform and AI features that help engineers prepare for technical interviews. Also, building with Rust, making an aim trainer with OpenGL, and reading machine learning papers.
 
 
 ### 💼 Credentials
